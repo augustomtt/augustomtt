@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a teacher in **Universidad Nacional de Mar del Plata**, teaching data structures using C.
 
-- 🌱 I’m currently learning **Flutter and node.js** to improve my front-end and back-end skills!
+- 🌱 I’m currently learning **Flutter and Python** to improve my front-end and back-end skills!
 
 - 👯 I’m also working on my final grade project implementing **Self-Organizing Maps (AI)**
 
