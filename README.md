@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! I'm Augusto 🤠</h1>
-<h3 align="center">A Software Engineering student from Argentina 🇦🇷</h3>
+<h3 align="center">A Software Engineer from Argentina 🇦🇷</h3>
 <h3 align="center">I'm an inquisitive and proactive learner, always willing to learn something new </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=augustomtt&label=Profile%20views&color=0e75b6&style=flat" alt="augustomtt" /> </p>
@@ -8,11 +8,9 @@
 
 - 🌱 I’m currently learning **Flutter and Python** to improve my front-end and back-end skills!
 
-- 👯 I’m also working on my final grade project implementing **Self-Organizing Maps (AI)**
-
 - 💬 Ask me about **data structures, algorithms optimization or anything you want to!**, I'm open to debate about everything!
 
-- 📫 You can reach me at **augusto.maletta@gmail.com or augusto.maletta@alumnos.fi.mdp.edu.ar**
+- 📫 You can reach me at **augusto.maletta@gmail.com or maletta@fi.mdp.edu.ar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
